@@ -1,4 +1,4 @@
 name: Jiajian Zeng, A No One
 markdown: kramdown
 paginate_path: "/blog/page:num/"
-paginate: 10
+paginate: 1
